@@ -1,5 +1,6 @@
 # SER574
 Assignment 1 Due 01/18
+
 Team: Bingrui Feng & Huijing Liang
 
 In teams of 2 write a paper in Word. (Use Word citation manager)
