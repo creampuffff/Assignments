@@ -1,5 +1,4 @@
-# SER574
-Assignment 1 Due 01/23
+Spring 2020 Assignment 1 Due 01/23
 
 Team: Bingrui Feng & Huijing Liang
 
